@@ -2,10 +2,15 @@
 
 ## Short Intro
 🤖 AI & Autonomous AI Agents Researcher  
+
 🖥️ Software Engineer (Python, Flask, AI Integration)  
+
 📊 Data Scientist (Python, SQL, Machine Learning)  
+
 💡 Passionate about Autonomous AI Agents Design
+
 ☕️ Coffee Lover
+
 ☀️ Light mode enthusiast (except for VSCode and terminal)
 
 ## 🚀 About Me
