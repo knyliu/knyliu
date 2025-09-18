@@ -2,10 +2,11 @@
 
 ## Interests
 
-* Explainable and Trustworthy AI
+* Machine Learning
+* Large Language Models
+* AI Agent Design
 * Autonomous AI & Multi-Agent Systems
-* Healthcare xAI
-* LLMs
+* Explainable and Trustworthy AI
 
 ## Contact
 
